@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #f8fafc;
+  text-align: center;
+}
+header {
+  background: linear-gradient(90deg, #1e3a8a, #0ea5e9);
+  padding: 20px;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+nav {
+  margin-top: 10px;
+}
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #f8fafc;
+  font-weight: bold;
+}
+section {
+  padding: 50px 20px;
+}
+.hero {
+  background: url('https://images.unsplash.com/photo-1537432376769-00a7d62a1c7e') no-repeat center/cover;
+  padding: 100px 20px;
+  color: #fff;
+}
+.hero h2 {
+  font-size: 3rem;
+  margin: 0;
+}
+footer {
+  background: #1e293b;
+  padding: 20px;
+  margin-top: 40px;
+}
